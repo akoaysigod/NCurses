@@ -1,0 +1,5 @@
+module NCurses [system] {
+  header "/usr/include/ncurses.h"
+  link "ncurses"
+  export *
+}
